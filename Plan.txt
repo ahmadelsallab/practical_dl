@@ -1,0 +1,33 @@
+Deep Learning From Scratch: Practical Approach
+
+
+Thoeritical:
+____________
+
+- Introduction to deep learning_10.0.pptx - Shortcut
++ Recurrent Neural Networks_3.0.pptx - Shortcut
++ ML survey excercise.txt
+
+TODO:
+- Practical DL: Add Pytorch
+- Sync with DL book--> chapter by chapter
+- Add GANs
+- Add RL (optional)
+
+Practical:
+__________
+- TF: 
+- Sklearn
+- Keras
+- Pandas
+- Deep Learning with Python book
+
+Merge:
+______
+- Interleave theoritical and practical. No more lecture then lab!
+Merge chapter by chapter
+--> Main source: Manning-Deep-Learning-with-Python-final.pdf
+--> Theoritical guide: DeepLearningBook - Shortcut
+
+Optional (python background):
+--> Python for Data Analysis_2nd edition_28232.pdf - Shortcut
